@@ -1160,6 +1160,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [snipt](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`
 - [Stikked](https://github.com/claudehohl/Stikked) - Advanced and beautiful pastebin. ([Demo](https://paste.scratchbook.ch/)) `GPL-3.0` `PHP`
 - [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
+- [SocksBin](https://github.com/magnumdingusedu/socksbin) - Simple and fast terminal pastebin, built using sockets, with optional Syntax Highlighting. No client required except netcat. `GPL-3.0` `Python`
 
 ## Personal Dashboards
 
